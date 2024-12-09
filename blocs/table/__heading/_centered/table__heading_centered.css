@@ -1,0 +1,4 @@
+.table__heading_centered {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,11 @@
+.khan__book-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+  margin-left: 48px;
+}
+
+.khan__book-link:hover {
+  color: blueviolet;
+}

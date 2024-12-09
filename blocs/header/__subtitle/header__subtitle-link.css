@@ -1,0 +1,7 @@
+.header__subtitle-link {
+  text-decoration: none;
+}
+
+.header__subtitle-link:hover {
+  color: blueviolet;
+}

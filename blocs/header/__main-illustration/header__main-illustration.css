@@ -1,0 +1,15 @@
+.header__main-illustration {
+  background-image: url("/images/two_again.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 640px;
+  width: 765px;
+  overflow: hidden;
+}
+
+.header__main-illustration_right {
+  background-position: right bottom;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
